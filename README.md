@@ -10,4 +10,6 @@ This is a two-hour masterclass that is split into two parts:
 
 **Prerequisites**
 
-If you have no formal experience in Bayesian Statistics, the following primer is a useful read to get started: [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2)
+If you have no formal experience in Bayesian Statistics, the following primer is a useful read to get started: 
+
+- [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2)

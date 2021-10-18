@@ -2,6 +2,8 @@
 
 A course for the Health Data Research PhD Programme in Health Data Science.
 
+Date: 2 November 2021 and 9 November 2021 from 12:00-13:00.
+
 This is a two-hour masterclass that is split into two parts:
 
 1. **The importance of priors**. The first part of the course will briefly introduce Bayesian Statistics before we consider the role of prior distributions.
